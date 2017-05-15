@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: junit:junit:4.10:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Aplicacoes/activator/repository/junit/junit/4.10/jars/junit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
